@@ -1,0 +1,17 @@
+{
+    "name": "getsupertab/sdk",
+    "type": "library",
+    "description": "Supertab API client",
+    "homepage": "https://github.com/laterpay/getsupertab-php",
+    "authors": [
+        {
+            "name": "Supertab Dev Team",
+            "email": "hello@supertab.co",
+            "homepage": "https://supertab.co",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    }
+}
